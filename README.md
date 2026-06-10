@@ -188,7 +188,7 @@ Each KPI query returns:
 - **KPIs Developed:** 5
 - **Time to Complete:** 10-15 hours (from setup to GitHub)
 ## 🔗 Connect With Me
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [www.linkedin.com/in/riya-pawar-0805rp]
 - **Email:** riyap6701@gmail.com
 - **GitHub:** github.com/RiyapPawar
 
